@@ -1,0 +1,32 @@
+<VAST version="2.0">
+  <Ad id="1234567">
+    <InLine>
+    <AdSystem>My ad system</AdSystem>
+    <AdTitle>Name of your VAST</AdTitle>
+    <Description>Linear Video Ad</Description>
+      <Creatives>
+        <Creative sequence="1">
+          <Duration>00:01:50</Duration>
+          <Linear>
+            <MediaFiles>
+              <MediaFile id="js_VPAID_File" type="application/javascript" width="240" height="880" apiFramework="VPAID">
+                <![CDATA[ https://chocopielotte.github.io/vpaid-ocs-v2.js ]]>
+              </MediaFile>
+            </MediaFiles>
+            <AdParameters>
+              <![CDATA[
+                {
+                  "sdkUrl": "https://f-dev.motionly.presage.io/javascript/1/sdk/?customerId=sandbox",
+                  "experiencePosterUrl": "https://m.media-amazon.com/images/I/912N65kKW8L._AC_UF1000,1000_QL80_.jpg",
+                  "durationInMilliseconds": 110000,
+                  "ratio": 0.6,
+                  "experienceId": 5758169758302208
+                }
+              ]]>
+            </AdParameters>
+          </Linear>
+        </Creative>
+      </Creatives>
+    </InLine>
+  </Ad>
+</VAST>
