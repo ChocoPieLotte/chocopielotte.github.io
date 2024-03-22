@@ -1,0 +1,34 @@
+<div class="celtra-ad-v3">
+    <!-- eas.W0FQUF9DQVRFR09SWV0%3D  = raw [APP_CATEGORY] -->
+    <!-- eas.W0FQUF9TVE9SRV9VUkxd    = raw [APP_STORE_URL] -->
+    <!-- eas.W1dJRFRIXQ%3D%3D        = raw [WIDTH] -->
+    <!-- eas.W0hFSUdIVF0%3D          = raw [HEIGHT] -->
+    <!-- eas.W0lQXQ%3D%3D            = raw [IP] -->
+    <!-- eas.W1VBXQ%3D%3D            = raw [UA] -->
+    <!-- eas.W0NCXQ%3D%3D            = raw [CB] -->
+    <!-- externalCampaignId          = raw {CampaignId}_[COUNTRY_CODE] -->
+    <!-- externalCampaignName        = raw {CampaignName}_[COUNTRY_CODE] -->
+    <!-- externalBundleId            = raw [BUNDLE_ID] -->
+    <!-- externalSiteId              = raw [APP_NAME] -->
+    <!-- gpsLat                      = raw [USER_LAT] -->
+    <!-- gpsLng                      = raw [USER_LON] -->
+    <!-- ironsource_dynamicparameter = raw {DynamicParameter} -->
+    <img src="data:image/png,celtra" style="display: none" onerror="
+        (function(img) {
+            var params = {'accountId':'9db8e35e','clickUrl':'{CLICK_URL}','expandDirection':'undefined','preferredClickThroughWindow':'new','clickEvent':'advertiser','iosAdvId':'[IFA]','androidAdvId':'[IFA]','externalAdServer':'IronSource','tagVersion':'html-standard-7'};
+            [].slice.apply(img.parentNode.childNodes).forEach(function(n) { var decfs = { urldecode: decodeURIComponent, htmldecode: function(v) { var d = document.createElement('div'); d.innerHTML = v; return d.textContent; }, eval: function(v) { return eval(v); }, raw: function(v) { return v; } }; var m; if (n.nodeType == 8 &amp;&amp; (m = n.textContent.match(/^&#92;s+([&#92;w%.]+)(&#92;[.+&#92;])?&#92;s+=&#92;s+(&#92;w+)&#92;s+(.*)$/i))) { try { params[m[1]+(m[2] || '')] = decfs[m[3]](m[4].replace(/^&#92;s+|&#92;s+$/g, '')); } catch (e) {} } });
+            var req = document.createElement('script');
+            req.id = params.scriptId = 'celtra-script-' + (window.celtraScriptIndex = (window.celtraScriptIndex||0)+1);
+            params.clientTimestamp = new Date/1000;
+            params.clientTimeZoneOffsetInMinutes = new Date().getTimezoneOffset();
+            params.hostPageLoadId=window.celtraHostPageLoadId=window.celtraHostPageLoadId||(Math.random()+'').slice(2);
+            var qs = '';
+            for (var k in params) {
+                qs += '&amp;' + encodeURIComponent(k) + '=' + encodeURIComponent(params[k]);
+            }
+            var src = 'https://ads.celtra.com/859fa0f0/web.js?' + qs;
+            req.src = src;
+            img.parentNode.insertBefore(req, img.nextSibling);
+        })(this);
+    "/>
+</div>
