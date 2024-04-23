@@ -1,8 +1,8 @@
 <VAST version="2.0">
   <Ad id="1234567">
     <InLine>
-    <AdSystem>My ad system</AdSystem>
-    <AdTitle>Name of your VAST</AdTitle>
+    <AdSystem>2.0</AdSystem>
+    <AdTitle>Vpaid Test</AdTitle>
     <Description>Linear Video Ad</Description>
       <Creatives>
         <Creative sequence="1">
