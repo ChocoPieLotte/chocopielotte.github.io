@@ -20,7 +20,10 @@
                   "experiencePosterUrl": "https://m.media-amazon.com/images/I/912N65kKW8L._AC_UF1000,1000_QL80_.jpg",
                   "durationInMilliseconds": 11000,
                   "ratio": 0.8,
-                  "experienceId": 1000423
+                  "experienceId": 1000423,
+                  "campaignid":"[campaignid]",
+                  "advert_id":"[advert_id]",
+                  "creative_id":"[creative_id]"
                 }
               ]]>
             </AdParameters>
