@@ -5,7 +5,7 @@
     <AdTitle>Vpaid Test</AdTitle>
     <Description>Linear Video Ad</Description>
       <Creatives>
-        <Creative sequence="1">
+        <Creative>
           <Duration>00:01:50</Duration>
           <Linear>
             <MediaFiles>
