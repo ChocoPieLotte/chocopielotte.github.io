@@ -10,17 +10,17 @@
           <Linear>
             <MediaFiles>
               <MediaFile id="js_VPAID_File" type="application/javascript" width="240" height="880" apiFramework="VPAID">
-                <![CDATA[ https://chocopielotte.github.io/vpaid-ocs-v2.js ]]>
+                <![CDATA[ https://f-dev.motionly.presage.io/template-dev.mtly.ogury.io/external-sprites/vpaid-test/-1/vpaid.js ]]>
               </MediaFile>
             </MediaFiles>
             <AdParameters>
               <![CDATA[
                 {
-                  "sdkUrl": "https://f-dev.motionly.presage.io/javascript/1/sdk/?customerId=sandbox",
+                  "sdkUrl": "https://f-dev.motionly.presage.io/javascript/1/sdk/?customerId=sandbox&applicationId=debug",
                   "experiencePosterUrl": "https://m.media-amazon.com/images/I/912N65kKW8L._AC_UF1000,1000_QL80_.jpg",
-                  "durationInMilliseconds": 110000,
-                  "ratio": 0.6,
-                  "experienceId": 5758169758302208
+                  "durationInMilliseconds": 11000,
+                  "ratio": 0.8,
+                  "experienceId": 1000423
                 }
               ]]>
             </AdParameters>
