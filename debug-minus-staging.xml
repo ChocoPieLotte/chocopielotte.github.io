@@ -1,0 +1,38 @@
+<VAST version="4.1">
+<Ad id="38687906-feaa-4ab9-8a9a-392e8599e74f">
+<InLine>
+<AdSystem>
+<![CDATA[ Ogury OCS Adserver ]]>
+</AdSystem>
+<AdTitle>
+<![CDATA[ VIDEO VPAID DEBUG ]]>
+</AdTitle>
+<Description>
+<![CDATA[ VIDEO VPAID DEBUG ]]>
+</Description>
+<AdServingId>
+<![CDATA[ Ogury-38687906-feaa-4ab9-8a9a-392e8599e74f ]]>
+</AdServingId>
+<Creatives>
+<Creative>
+<UniversalAdId idRegistry="unknown">
+<![CDATA[ unknown ]]>
+</UniversalAdId>
+<Linear>
+<Duration>
+<![CDATA[ 00:01:00 ]]>
+</Duration>
+<MediaFiles>
+<MediaFile id="js_VPAID_File" type="application/javascript" apiFramework="VPAID">
+<![CDATA[ https://f-staging.motionly.presage.io/template-staging.mtly.ogury.io/external-sprites/vpaid/-1/vpaid.js ]]>
+</MediaFile>
+</MediaFiles>
+<AdParameters>
+<![CDATA[ { "ratio": 0.8, "experienceId": 1000835, "sdkUrl": "https://f-staging.motionly.presage.io/javascript/1/sdk/?customerId=sandbox&applicationId=callbacks", "campaignid":"[campaignid]", "advert_id":"[advert_id]", "creative_id":"[creative_id]", "apikey":"[apikey]", "page":"[page]", "external_app_exchange":"[external_app_exchange]", "creative_size":"[creative_size]" } ]]>
+</AdParameters>
+</Linear>
+</Creative>
+</Creatives>
+</InLine>
+</Ad>
+</VAST>
