@@ -24,11 +24,11 @@
         </Duration>
         <MediaFiles>
           <MediaFile id="js_VPAID_File" type="application/javascript" apiFramework="VPAID">
-          <![CDATA[ https://f.motionly.presage.io/template.mtly.ogury.io/external-sprites/vpaid/1/vpaid.js ]]>
+          <![CDATA[ https://f-dev.motionly.presage.io/template-dev.mtly.ogury.io/external-sprites/vpaid/2/vpaid.js ]]>
           </MediaFile>
         </MediaFiles>
         <AdParameters>
-        <![CDATA[ { "ratio": 0.8, "experienceId": 1025115, "sdkUrl": "https://f.motionly.presage.io/javascript/1/sdk/?customerId=ogury&applicationId=callbacksdebugtg", "campaignid":"[campaignid]", "advert_id":"[advert_id]", "creative_id":"[creative_id]", "apikey":"[apikey]", "page":"[page]", "external_app_exchange":"[external_app_exchange]", "creative_size":"[creative_size]" } ]]>
+        <![CDATA[ { "ratio": 0.8, "experienceId": 1001959, "sdkUrl": "https://f.motionly.presage.io/javascript/1/sdk/?customerId=ogury&applicationId=callbacksdebugtg", "campaignid":"[campaignid]", "advert_id":"[advert_id]", "creative_id":"[creative_id]", "apikey":"[apikey]", "page":"[page]", "external_app_exchange":"[external_app_exchange]", "creative_size":"[creative_size]", "duration": 20 } ]]>
         </AdParameters>
         </Linear>
       </Creative>
