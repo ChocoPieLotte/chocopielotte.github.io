@@ -24,7 +24,7 @@
         </Duration>
         <MediaFiles>
           <MediaFile id="js_VPAID_File" type="application/javascript" apiFramework="VPAID">
-          <![CDATA[ https://f-dev.motionly.presage.io/template-dev.mtly.ogury.io/external-sprites/vpaid/2/vpaid.js ]]>
+          <![CDATA[ https://f-dev.motionly.presage.io/template-dev.mtly.ogury.io/external-sprites/vpaid/-1/vpaid.js ]]>
           </MediaFile>
         </MediaFiles>
         <AdParameters>
