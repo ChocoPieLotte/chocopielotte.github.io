@@ -1,38 +1,38 @@
 <VAST version="4.1">
-  <Ad id="f9e0834b-7020-4e3e-a4ff-8f6315092022">
-  <InLine>
-    <AdSystem>
-    <![CDATA[ Ogury OCS Adserver ]]>
-    </AdSystem>
-    <AdTitle>
-    <![CDATA[ DEBUG VPAID ANDREI ]]>
-    </AdTitle>
-    <Description>
-    <![CDATA[ DEBUG VPAID ANDREI ]]>
-    </Description>
-    <AdServingId>
-    <![CDATA[ Ogury-f9e0834b-7020-4e3e-a4ff-8f6315092022 ]]>
-    </AdServingId>
-    <Creatives>
-      <Creative>
-        <UniversalAdId idRegistry="unknown">
-        <![CDATA[ unknown ]]>
-        </UniversalAdId>
-        <Linear>
-        <Duration>
-        <![CDATA[ 00:00:16 ]]>
-        </Duration>
-        <MediaFiles>
-          <MediaFile id="js_VPAID_File" type="application/javascript" apiFramework="VPAID">
-          <![CDATA[ https://f-dev.motionly.presage.io/template-dev.mtly.ogury.io/external-sprites/vpaid/-1/vpaid.js ]]>
-          </MediaFile>
-        </MediaFiles>
-        <AdParameters>
-        <![CDATA[ { "ratio": 0.8, "experienceId": 1001959, "sdkUrl": "https://f-dev.motionly.presage.io/javascript/1/sdk/?customerId=ogury&applicationId=callbacks", "campaignid":"[campaignid]", "advert_id":"[advert_id]", "creative_id":"[creative_id]", "apikey":"[apikey]", "page":"[page]", "external_app_exchange":"[external_app_exchange]", "creative_size":"[creative_size]", "duration": 4 } ]]>
-        </AdParameters>
-        </Linear>
-      </Creative>
-    </Creatives>
-  </InLine>
-  </Ad>
+<Ad id="be11a70f-c451-4ded-955a-93f651fc2ed6">
+<InLine>
+<AdSystem>
+<![CDATA[ Ogury OCS Adserver ]]>
+</AdSystem>
+<AdTitle>
+<![CDATA[ vpaid skin video alexis ]]>
+</AdTitle>
+<Description>
+<![CDATA[ vpaid skin video alexis ]]>
+</Description>
+<AdServingId>
+<![CDATA[ Ogury-be11a70f-c451-4ded-955a-93f651fc2ed6 ]]>
+</AdServingId>
+<Creatives>
+<Creative>
+<UniversalAdId idRegistry="unknown">
+<![CDATA[ unknown ]]>
+</UniversalAdId>
+<Linear>
+<Duration>
+<![CDATA[ 00:00:16 ]]>
+</Duration>
+<MediaFiles>
+<MediaFile id="js_VPAID_File" type="application/javascript" apiFramework="VPAID">
+<![CDATA[ https://f-dev.motionly.presage.io/template-dev.mtly.ogury.io/external-sprites/vpaid/2/vpaid.js ]]>
+</MediaFile>
+</MediaFiles>
+<AdParameters>
+<![CDATA[ { "ratio": 0.8, "experienceId": 1001993, "sdkUrl": "https://f-dev.motionly.presage.io/javascript/1/sdk/?customerId=ogury&applicationId=callbacks", "campaignid":"[campaignid]", "advert_id":"[advert_id]", "creative_id":"[creative_id]", "apikey":"[apikey]", "page":"[page]", "external_app_exchange":"[external_app_exchange]", "creative_size":"[creative_size]", "duration": 16 } ]]>
+</AdParameters>
+</Linear>
+</Creative>
+</Creatives>
+</InLine>
+</Ad>
 </VAST>
