@@ -28,7 +28,7 @@
           </MediaFile>
         </MediaFiles>
         <AdParameters>
-        <![CDATA[ { "ratio": 0.8, "experienceId": 1025170, "sdkUrl": "https://f.motionly.presage.io/javascript/1/sdk/?customerId=ogury&applicationId=callbacksdebugtg", "campaignid":"[campaignid]", "advert_id":"[advert_id]", "creative_id":"[creative_id]", "apikey":"[apikey]", "page":"[page]", "external_app_exchange":"[external_app_exchange]", "creative_size":"[creative_size]" } ]]>
+        <![CDATA[ { "ratio": 0.8, "experienceId": 1035994, "sdkUrl": "https://f.motionly.presage.io/javascript/1/sdk/?customerId=ogury&applicationId=callbacks", "campaignid":"[campaignid]", "advert_id":"[advert_id]", "creative_id":"[creative_id]", "apikey":"[apikey]", "page":"[page]", "external_app_exchange":"[external_app_exchange]", "creative_size":"[creative_size]", "duration": 16 } ]]>
         </AdParameters>
         </Linear>
       </Creative>
