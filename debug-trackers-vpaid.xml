@@ -1,0 +1,50 @@
+This XML file does not appear to have any style information associated with it. The document tree is shown below.
+<VAST version="4.1">
+<script id="eppiocemhmnlbhjplcgkofciiegomcon"/>
+<script/>
+<script/>
+<Ad id="6cb7e9f9-6250-46af-97ba-c0151889f4a6">
+<InLine>
+<AdSystem>
+<![CDATA[ Ogury OCS Adserver ]]>
+</AdSystem>
+<AdTitle>
+<![CDATA[ Vpaid debug video teackers ]]>
+</AdTitle>
+<Description>
+<![CDATA[ Vpaid debug video teackers ]]>
+</Description>
+<AdServingId>
+<![CDATA[ Ogury-6cb7e9f9-6250-46af-97ba-c0151889f4a6 ]]>
+</AdServingId>
+<Creatives>
+<Creative>
+<UniversalAdId idRegistry="unknown">
+<![CDATA[ unknown ]]>
+</UniversalAdId>
+<Linear>
+<Duration>
+<![CDATA[ 00:00:16 ]]>
+</Duration>
+<MediaFiles>
+<MediaFile id="js_VPAID_File" type="application/javascript" apiFramework="VPAID">
+<![CDATA[ https://f-dev.motionly.presage.io/external_sprites/vpaid/-1/vpaid.js ]]>
+</MediaFile>
+</MediaFiles>
+<VideoClicks>
+<ClickThrough>
+<![CDATA[ https://www.volvocars.com/fr/ ]]>
+</ClickThrough>
+<ClickTracking>
+<![CDATA[ https://ogury.com/click-tracker ]]>
+</ClickTracking>
+</VideoClicks>
+<AdParameters>
+<![CDATA[ { "clickUrl": "https://www.volvocars.com/fr/", "ratio": 0.8, "experienceId": 1004325, "sdkUrl": "https://f-dev.motionly.presage.io/javascript/1/sdk/?customerId=ogury&applicationId=callbacks", "campaignid":"[campaignid]", "advert_id":"[advert_id]", "creative_id":"[creative_id]", "apikey":"[apikey]", "page":"[page]", "external_app_exchange":"[external_app_exchange]", "creative_size":"[creative_size]", "duration": 16 } ]]>
+</AdParameters>
+</Linear>
+</Creative>
+</Creatives>
+</InLine>
+</Ad>
+</VAST>
