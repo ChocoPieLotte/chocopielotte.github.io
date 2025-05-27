@@ -1,0 +1,51 @@
+<VAST version="4.1">
+    <Ad id="38526ce5-4b50-46b5-acb5-52fc7b9f6843">
+        <InLine>
+            <AdSystem><![CDATA[Ogury OCS Adserver]]></AdSystem>
+            <AdTitle><![CDATA[FS_[Template testing] VPAID templates tests - Brandspotlight]]></AdTitle>
+            <Description><![CDATA[FS_[Template testing] VPAID templates tests - Brandspotlight]]></Description>
+            <AdServingId><![CDATA[Ogury-38526ce5-4b50-46b5-acb5-52fc7b9f6843]]></AdServingId>
+                <Impression><![CDATA[https://ms-ads-monitoring-events.presage.io/ocs?event=VPAID&template=brandspotlightvpaid&template_version=6&experience_id=1066345&callbacks_version=72&player_version=113&advert_id=[advert_id]&campaign_id=[campaignid]&creative_id=[creative_id]&details={"vpaidevent": "impression"}]]></Impression>
+            <Creatives>
+                <Creative>
+                    <UniversalAdId idRegistry="unknown"><![CDATA[unknown]]></UniversalAdId>
+                    <Linear>
+                        <Duration><![CDATA[00:00:16]]></Duration>
+                        <TrackingEvents>
+                            <Tracking event="start"><![CDATA[https://ms-ads-monitoring-events.presage.io/ocs?event=VPAID&template=brandspotlightvpaid&template_version=6&experience_id=1066345&callbacks_version=72&player_version=113&advert_id=[advert_id]&campaign_id=[campaignid]&creative_id=[creative_id]&details={"vpaidevent": "start"}]]></Tracking>
+                        </TrackingEvents>
+
+                        <MediaFiles>
+                            <MediaFile id="js_VPAID_File" type="application/javascript" apiFramework="VPAID">
+                                <![CDATA[https://f.motionly.presage.io/external_sprites/vpaid/-1/vpaid.js]]>
+                            </MediaFile>
+                        </MediaFiles>
+
+                        <VideoClicks>
+                            <ClickThrough><![CDATA[https://www.volvocars.com/fr/]]></ClickThrough>
+                            <ClickTracking><![CDATA[https://ms-ads-monitoring-events.presage.io/ocs?event=VPAID&template=brandspotlightvpaid&template_version=6&experience_id=1066345&callbacks_version=72&player_version=113&advert_id=[advert_id]&campaign_id=[campaignid]&creative_id=[creative_id]&details={"vpaidevent": "click"}]]></ClickTracking>
+                        </VideoClicks>
+
+                        <AdParameters>
+                            <![CDATA[
+                            {
+                            "clickUrl": "https://www.volvocars.com/fr/",
+                            "siteId": 1066334,
+                            "sdkUrl": "https://f.motionly.presage.io/javascript/1/sdk/?customerId=ogury&applicationId=callbacks",
+                            "campaignid":"[campaignid]",
+                            "advert_id":"[advert_id]",
+                            "creative_id":"[creative_id]",
+                            "apikey":"[apikey]",
+                            "page":"[page]",
+                            "external_app_exchange":"[external_app_exchange]",
+                            "creative_size":"[creative_size]",
+                            "duration": 16
+                            }
+                            ]]>
+                        </AdParameters>
+                    </Linear>
+                </Creative>
+            </Creatives>
+        </InLine>
+    </Ad>
+</VAST>
